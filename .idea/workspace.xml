@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2266d689-6e1d-4cbe-bfc6-21060b139f8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="ProjectId" id="1iavhIsIdziUP692IePGHUtKT8A" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vm" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sample" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="114" key="#GOPATH" timestamp="1602593897003">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="520" y="114" key="#GOPATH/0.23.1440.852@0.23.1440.852" timestamp="1602593897003" />
+    <state x="520" y="289" key="#Go_Modules" timestamp="1602159107105">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="520" y="289" key="#Go_Modules/0.23.1440.852@0.23.1440.852" timestamp="1602159107105" />
+    <state x="184" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602660473645">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="184" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.852@0.23.1440.852" timestamp="1602660473645" />
+    <state x="372" y="234" key="EditFileWatcherDialog" timestamp="1602594119124">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="372" y="234" key="EditFileWatcherDialog/0.23.1440.852@0.23.1440.852" timestamp="1602594119124" />
+    <state x="705" y="301" key="EnvironmentVariablesDialog" timestamp="1602596076854">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="705" y="301" key="EnvironmentVariablesDialog/0.23.1440.852@0.23.1440.852" timestamp="1602596076854" />
+    <state width="1343" height="198" key="GridCell.Tab.0.bottom" timestamp="1605583713249">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1343" height="198" key="GridCell.Tab.0.bottom/0.23.1440.852@0.23.1440.852" timestamp="1605583713249" />
+    <state width="1343" height="198" key="GridCell.Tab.0.center" timestamp="1605583713248">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1343" height="198" key="GridCell.Tab.0.center/0.23.1440.852@0.23.1440.852" timestamp="1605583713248" />
+    <state width="1343" height="198" key="GridCell.Tab.0.left" timestamp="1605583713247">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1343" height="198" key="GridCell.Tab.0.left/0.23.1440.852@0.23.1440.852" timestamp="1605583713247" />
+    <state width="1343" height="198" key="GridCell.Tab.0.right" timestamp="1605583713248">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1343" height="198" key="GridCell.Tab.0.right/0.23.1440.852@0.23.1440.852" timestamp="1605583713248" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1603372006706">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.852@0.23.1440.852" timestamp="1603372006706" />
+    <state x="383" y="147" width="804" height="655" key="StructurePopup" timestamp="1605015736329">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="383" y="147" width="804" height="655" key="StructurePopup/0.23.1440.852@0.23.1440.852" timestamp="1605015736329" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1605157891616">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/0.23.1440.852@0.23.1440.852" timestamp="1605157891616" />
+    <state x="0" y="23" width="746" height="852" key="find.popup" timestamp="1604333054934">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="0" y="23" width="746" height="852" key="find.popup/0.23.1440.852@0.23.1440.852" timestamp="1604333054934" />
+    <state x="302" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1605344811144">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="302" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.852@0.23.1440.852" timestamp="1605344811144" />
+    <state x="445" y="375" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605101576364">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="445" y="375" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.852@0.23.1440.852" timestamp="1605101576364" />
+  </component>
+</project>
